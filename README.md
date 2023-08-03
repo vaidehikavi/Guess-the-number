@@ -1,3 +1,3 @@
 # Guess-the-number
 
-This is the simple Java project in which you have to gives the number by provided hints! 
+This is the simple Java project/game in which you have to guess the number by provided hints! 
